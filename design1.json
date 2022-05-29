@@ -1,0 +1,27 @@
+{
+  "shapes": [
+    {
+      "type": "Circle",
+      "center": {
+        "x": 10.0,
+        "y": 10.0
+      },
+      "radius": "70.71"
+    },
+    {
+      "type": "Circle",
+      "center": {
+        "x": 50.0,
+        "y": 60.0
+      },
+      "radius": "114.02"
+    },
+    {
+      "type": "Rectangle",
+      "x": 33.0,
+      "y": 44.0,
+      "width": 10.0,
+      "height": 45.0
+    }
+  ]
+}
